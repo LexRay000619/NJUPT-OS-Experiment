@@ -71,7 +71,7 @@ public class Experiment2 {
     }
 
     /**
-     * 获取用户的详细设设置
+     * 获取用户的详细设置
      */
     private void set() {
         Scanner in = new Scanner(System.in);
